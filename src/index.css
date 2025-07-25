@@ -38,13 +38,26 @@ All colors MUST be HSL.
 
     --radius: 0.5rem;
 
-    /* Password strength colors */
-    --success: 142 76% 36%;
+    /* Password strength colors - vibrant palette */
+    --success: 142 85% 45%;
     --success-foreground: 210 40% 98%;
-    --warning: 38 92% 50%;
+    --success-glow: 142 85% 65%;
+    --warning: 45 93% 55%;
     --warning-foreground: 222.2 84% 4.9%;
-    --danger: 0 84.2% 60.2%;
+    --warning-glow: 45 93% 75%;
+    --danger: 0 85% 65%;
     --danger-foreground: 210 40% 98%;
+    --danger-glow: 0 85% 80%;
+    
+    /* Additional vibrant colors */
+    --purple: 262 83% 58%;
+    --purple-foreground: 210 40% 98%;
+    --blue: 217 91% 60%;
+    --blue-foreground: 210 40% 98%;
+    --emerald: 160 84% 39%;
+    --emerald-foreground: 210 40% 98%;
+    --orange: 25 95% 53%;
+    --orange-foreground: 210 40% 98%;
 
     --sidebar-background: 0 0% 98%;
 
